@@ -7,3 +7,12 @@
 **Thoughts:** Cleared up all my basics! 🔥; Ready to rock with DataFrames in Pandas 
 
 **Link to work:** [Kaggle Pandas Micro-Course](https://www.kaggle.com/learn/pandas)
+
+
+### Day 2: September 12, 2021
+
+**Today's Progress**: 4Hrs+ practice with Pandas & Multiple Data Sets (Coursera)
+
+**Thoughts:** Improved practical data manipulation skills
+
+**Link to work:** [Kaggle Pandas Micro-Course](https://www.kaggle.com/learn/pandas)
