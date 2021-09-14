@@ -33,3 +33,10 @@
 
 **Link to work:** N/A
 
+## Day 4: September 14, 2021
+
+**Today's Progress**: Learned about Data Visualization in Python with Seaborn!
+
+**Thoughts:** Can't wait to apply it and create cool visualizations.
+
+**Link to work:** https://www.kaggle.com/learn/data-visualization
