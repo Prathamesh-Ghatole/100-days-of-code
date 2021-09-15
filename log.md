@@ -40,3 +40,11 @@
 **Thoughts:** Can't wait to apply it and create cool visualizations.
 
 **Link to work:** https://www.kaggle.com/learn/data-visualization
+
+## Day 5: September 15, 2021
+
+**Today's Progress**: Solved Stats for DS over at IIT Madras Online Degree Programme, Studied Data Visualization with #Seaborn on Kaggle.
+
+**Thoughts:** Making good progress :)
+
+**Link to work:** N/A
