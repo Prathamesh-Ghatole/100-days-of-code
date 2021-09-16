@@ -8,7 +8,6 @@
 
 **Link to work:** [Kaggle Pandas Micro-Course](https://www.kaggle.com/learn/pandas)
 
-
 ## Day 2: September 12, 2021
 
 **Today's Progress**: 4Hrs+ practice with Pandas & Multiple Data Sets (Coursera)
@@ -46,5 +45,13 @@
 **Today's Progress**: Solved Stats for DS over at IIT Madras Online Degree Programme, Studied Data Visualization with #Seaborn on Kaggle.
 
 **Thoughts:** Making good progress :)
+
+**Link to work:** N/A
+
+## Day 6: September 16, 2021
+
+**Today's Progress**: Completed Coursera Applied Data Data Science Specialization Course1, Read "Tools for Thinking about Design by Alberto Cairo"
+
+**Thoughts:** Opening up my view with new and fresh topics!
 
 **Link to work:** N/A
