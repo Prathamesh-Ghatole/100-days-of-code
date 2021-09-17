@@ -55,3 +55,11 @@
 **Thoughts:** Opening up my view with new and fresh topics!
 
 **Link to work:** N/A
+
+## Day 7: September 17, 2021
+
+**Today's Progress**: Learned a lot more about the fundamentals and best practices of Data Visualization, and graphical Heuristics.
+
+**Thoughts:** Some of these insights are mindblowing!
+
+**Link to work:** N/A
