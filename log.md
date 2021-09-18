@@ -63,3 +63,11 @@
 **Thoughts:** Some of these insights are mindblowing!
 
 **Link to work:** N/A
+
+## Day 8: September 18, 2021
+
+**Today's Progress**: Attended IEEE CLAP 2021, learned advanced regex concepts + practice.
+
+**Thoughts:** Exceptional day of learning. Looking forward to more IEEE events.
+
+**Link to work:** https://yp.ieeer10.org/clap/ & https://regex101.com/
