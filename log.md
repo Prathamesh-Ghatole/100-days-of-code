@@ -71,3 +71,11 @@
 **Thoughts:** Exceptional day of learning. Looking forward to more IEEE events.
 
 **Link to work:** https://yp.ieeer10.org/clap/ & https://regex101.com/
+
+## Day 9: September 19, 2021
+
+**Today's Progress**: Attended IEEE CLAP 2021 Day2, Read "Graphics Lies, Misleading Visual" by Alberto Cairo.
+
+**Thoughts:** Learned about Visualization Malpractices, Discussed Career after academia w/ Industry, Startup, and Academic experts!
+
+**Link to work:** https://yp.ieeer10.org/clap/ & https://faculty.ucmerced.edu/jvevea/classes/Spark/readings/Cairo2015_Chapter_GraphicsLiesMisleadingVisuals.pdf
