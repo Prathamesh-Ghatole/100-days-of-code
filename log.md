@@ -79,3 +79,12 @@
 **Thoughts:** Learned about Visualization Malpractices, Discussed Career after academia w/ Industry, Startup, and Academic experts!
 
 **Link to work:** https://yp.ieeer10.org/clap/ & https://faculty.ucmerced.edu/jvevea/classes/Spark/readings/Cairo2015_Chapter_GraphicsLiesMisleadingVisuals.pdf
+
+## Day 10: September 20, 2021
+
+**Today's Progress**: Learned about fundamentals of Matplotlib.
+
+**Thoughts:** Matplotlib's backend is more complicated than I thought lol.
+
+**Link to work:** N/A
+
