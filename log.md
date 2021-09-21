@@ -88,3 +88,10 @@
 
 **Link to work:** N/A
 
+## DAY 11: September 21, 2021
+
+**Today's Progress**: Learned about #Matplotlib & #Python  DataClasses with @ArjanCodes 
+
+**Thoughts**: Getting hang of Matplotlib Plots; learning advanced python OOP concepts.
+
+**Link to work**: https://www.youtube.com/watch?v=eiDyK_ofPPM&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
