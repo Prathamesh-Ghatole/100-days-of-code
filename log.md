@@ -95,3 +95,11 @@
 **Thoughts**: Getting hang of Matplotlib Plots; learning advanced python OOP concepts.
 
 **Link to work**: https://www.youtube.com/watch?v=eiDyK_ofPPM&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
+
+## DAY 12: September 22, 2021
+
+**Today's Progress**: Did some Data Cleanup practice on Kaggle + revisited C++ Theory for DSA prep.
+
+**Thoughts**: Trying to Strengthen OOP along with DS
+
+**Link to work**: N/A
