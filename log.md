@@ -103,3 +103,11 @@
 **Thoughts**: Trying to Strengthen OOP along with DS
 
 **Link to work**: N/A
+
+## DAY 13: September 23, 2021
+
+**Today's Progress**: Learned more C++ Theory, and about Operating Systems.
+
+**Thoughts**: Trying to Strengthen OOP along with DS
+
+**Link to work**: N/A
