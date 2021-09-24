@@ -111,3 +111,11 @@
 **Thoughts**: Trying to Strengthen OOP along with DS
 
 **Link to work**: N/A
+
+## DAY 14: September 24, 2021
+
+**Today's Progress**: Learned more about Advanced Matplotlib Artists, and Scripting
+
+**Thoughts**: Maintaining a good Data-Ink Ratio in Visualizations in Key
+
+**Link to work**: N/A
