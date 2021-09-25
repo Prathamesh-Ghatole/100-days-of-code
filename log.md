@@ -119,3 +119,11 @@
 **Thoughts**: Maintaining a good Data-Ink Ratio in Visualizations in Key
 
 **Link to work**: N/A
+
+## DAY 15: September 25, 2021
+
+**Today's Progress**: Did a few Kaggle Data Cleanup Exercises
+
+**Thoughts**: Kaggle 🙏
+
+**Link to work**: https://www.kaggle.com/learn/data-cleaning
