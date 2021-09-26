@@ -127,3 +127,11 @@
 **Thoughts**: Kaggle 🙏
 
 **Link to work**: https://www.kaggle.com/learn/data-cleaning
+
+## DAY 16: September 26, 2021
+
+**Today's Progress**: Solved more problems on Data Cleaning, Scaling, and Normalization. Learned tips about rlanguage , pythonprogramming & Pandas.
+
+**Thoughts**: Applying training from CLAP 2021 in my academia & career.
+
+**Link to work**: https://www.kaggle.com/learn/data-cleaning
