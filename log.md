@@ -135,3 +135,11 @@
 **Thoughts**: Applying training from CLAP 2021 in my academia & career.
 
 **Link to work**: https://www.kaggle.com/learn/data-cleaning
+
+## DAY 17: September 27, 2021
+
+**Today's Progress**: Reading + Problem Solving - Coursera & IITM online degree program.
+
+**Thoughts**: ...
+
+**Link to work**: N/A
