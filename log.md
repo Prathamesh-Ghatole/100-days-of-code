@@ -143,3 +143,11 @@
 **Thoughts**: ...
 
 **Link to work**: N/A
+
+## DAY 18: September 28, 2021
+
+**Today's Progress**: Kaggle/Coursera Pandas Practice + Did analysis with a dataset of my Music Streams!
+
+**Thoughts**: Thoughts: Reading #json into #Pandas is painful.
+
+**Link to work**: https://www.last.fm/user/snaekboi
