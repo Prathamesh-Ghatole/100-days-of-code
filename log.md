@@ -151,3 +151,11 @@
 **Thoughts**: Thoughts: Reading #json into #Pandas is painful.
 
 **Link to work**: https://www.last.fm/user/snaekboi
+
+## DAY 19: September 29, 2021
+
+**Today's Progress**: Practiced #Statistics with Python & Practiced DSA in C++ & Read about #ArtificialIntelligence Theory
+
+**Thoughts**: Very Productive Day :)
+
+**Link to work**: Reading https://g.co/kgs/zR7Fbj
