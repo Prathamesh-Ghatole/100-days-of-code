@@ -159,3 +159,11 @@
 **Thoughts**: Very Productive Day :)
 
 **Link to work**: Reading https://g.co/kgs/zR7Fbj
+
+## DAY 20: September 30, 2021
+
+**Today's Progress**: Practiced Plotting w/ Weather Data, Practiced #DSA / C++, Almost done w/ DataCleaning MicroCourse on #kaggle
+
+**Thoughts**: DSA is interesting AF
+
+**Link to work**: https://www.kaggle.com/learn/data-cleaning
