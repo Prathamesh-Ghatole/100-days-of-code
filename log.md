@@ -167,3 +167,11 @@
 **Thoughts**: DSA is interesting AF
 
 **Link to work**: https://www.kaggle.com/learn/data-cleaning
+
+## DAY 21: October 1, 2021
+
+**Today's Progress**: Completed Kaggle #DataCleaning Microcourse! + #DSA / C++ Practice + Attended Day1 of IEEE Workshop for #ArtificialIntelligence Techniques, Learned more about #Matlab.
+
+**Thoughts**: Feeling extra productive!
+
+**Link to work**: https://www.kaggle.com/learn/certification/prathameshghatole/data-cleaning
