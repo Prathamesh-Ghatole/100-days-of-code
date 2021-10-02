@@ -175,3 +175,19 @@
 **Thoughts**: Feeling extra productive!
 
 **Link to work**: https://www.kaggle.com/learn/certification/prathameshghatole/data-cleaning
+
+## DAY 22: October 2, 2021
+
+**Today's Progress**: Started SQL Micro-Course, attended Workshop on Pandas, Numpy, SciKit, etc + Hands on Project on Leaf Disease detection w/ ML! Learned about Animation and Interactive plots w/ Matplotlib
+
+**Thoughts**: GG
+
+**Link to work**: N/A
+
+## DAY 23: October 2, 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
