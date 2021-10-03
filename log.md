@@ -186,6 +186,14 @@
 
 ## DAY 23: October 2, 2021
 
+**Today's Progress**: SQL + Matplotlib + Reading + Seminars
+
+**Thoughts**: Quite a laidback schedule for today
+
+**Link to work**: N/A
+
+## DAY 24: October 3, 2021
+
 **Today's Progress**: 
 
 **Thoughts**: 
