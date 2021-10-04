@@ -194,8 +194,8 @@
 
 ## DAY 24: October 3, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Learned Searching/Sorting Algorithms. Learned Algos like BFS in detail 
 
-**Thoughts**: 
+**Thoughts**: Developing Logic
 
-**Link to work**: 
+**Link to work**: N/A
