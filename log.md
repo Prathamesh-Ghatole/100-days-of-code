@@ -184,7 +184,7 @@
 
 **Link to work**: N/A
 
-## DAY 23: October 2, 2021
+## DAY 23: October 3, 2021
 
 **Today's Progress**: SQL + Matplotlib + Reading + Seminars
 
@@ -192,10 +192,18 @@
 
 **Link to work**: N/A
 
-## DAY 24: October 3, 2021
+## DAY 24: October 4, 2021
 
 **Today's Progress**: Learned Searching/Sorting Algorithms. Learned Algos like BFS in detail 
 
 **Thoughts**: Developing Logic
+
+**Link to work**: N/A
+
+## DAY 25: October 5, 2021
+
+**Today's Progress**: Committing to an 8-month Data Structure & Algorithms Specialization Course at Coursera, Learned visualization in Pandas & Seaborn, tried lost in a hackathon lol.
+
+**Thoughts**: Getting to the Science of CS
 
 **Link to work**: N/A
