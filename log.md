@@ -207,3 +207,11 @@
 **Thoughts**: Getting to the Science of CS
 
 **Link to work**: N/A
+
+## DAY 26: October 6, 2021
+
+**Today's Progress**: Learned more about Seaborn, Spurious Correlations, Solved stats w/ Python, Solved DSA in C++
+
+**Thoughts**: RIP free time
+
+**Link to work**: N/A
