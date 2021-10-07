@@ -215,3 +215,11 @@
 **Thoughts**: RIP free time
 
 **Link to work**: N/A
+
+## DAY 27: October 7, 2021
+
+**Today's Progress**: Started a little project (Web scraping + Data Cleaning/Manipulation + Data Visualization), Learned web-scraping w/ Pandas, Learned Stress-testing & debugging in C++
+
+**Thoughts**: Project 👀
+
+**Link to work**: N/A
