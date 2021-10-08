@@ -223,3 +223,11 @@
 **Thoughts**: Project 👀
 
 **Link to work**: N/A
+
+## DAY 28: October 8, 2021
+
+**Today's Progress**: Practicing Data Mining + Data Cleaning + visualization w/ Matplotlib + Seaborn. Reading More on Web Scraping&Cleaning.
+
+**Thoughts**: Preparing for offline exams 😑
+
+**Link to work**: N/A
