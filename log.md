@@ -231,3 +231,11 @@
 **Thoughts**: Preparing for offline exams 😑
 
 **Link to work**: N/A
+
+## DAY 29: October 9, 2021
+
+**Today's Progress**: SQL + Stats + Copmutational thinking practice questions.
+
+**Thoughts**: Reducing work due to exams. Can't break the stride though :)
+
+**Link to work**: N/A
