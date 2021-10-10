@@ -239,3 +239,11 @@
 **Thoughts**: Reducing work due to exams. Can't break the stride though :)
 
 **Link to work**: N/A
+
+## DAY 30: October 10, 2021
+
+**Today's Progress**: Dove deeper into C++ STL Library, and finessed on stuff like vectors. Fried my brain with 4+hrs of Stats & DSA.
+
+**Thoughts**: <bits/stdc++.h> makes life way easier in C++
+
+**Link to work**: N/A
