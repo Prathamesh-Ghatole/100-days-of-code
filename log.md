@@ -247,3 +247,11 @@
 **Thoughts**: <bits/stdc++.h> makes life way easier in C++
 
 **Link to work**: N/A
+
+## DAY 31: October 11, 2021
+
+**Today's Progress**: Learned Debugging, more DSA, new stats concepts, and some graphic design :)
+
+**Thoughts**: loving C++ so far
+
+**Link to work**: N/A
