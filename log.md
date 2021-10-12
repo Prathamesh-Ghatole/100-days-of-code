@@ -255,3 +255,11 @@
 **Thoughts**: loving C++ so far
 
 **Link to work**: N/A
+
+## DAY 32: October 12, 2021
+
+**Today's Progress**: Practiced Algos in C++ and Python, completed my first major DS project; ranging from data scraping to cleaning to analysis to visualization :)
+
+**Thoughts**: Still managed to waste half of the day.
+
+**Link to work**: N/A
