@@ -263,3 +263,11 @@
 **Thoughts**: Still managed to waste half of the day.
 
 **Link to work**: N/A
+
+## DAY 33: October 13, 2021
+
+**Today's Progress**: Completed course 2/5 from my Applied Data Science Specialization, Did some DSA, more DSA, and a lot of technical club work.
+
+**Thoughts**: :)
+
+**Link to work**: N/A
