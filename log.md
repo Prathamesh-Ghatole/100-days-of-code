@@ -271,3 +271,11 @@
 **Thoughts**: :)
 
 **Link to work**: N/A
+
+## DAY 34: October 14, 2021
+
+**Today's Progress**: Learned fundamentals of Machine Learning, Intro to Scikit Learn + Learned More Algorithms for Fibonacci Sequence + Learned P&C (Stats)
+
+**Thoughts**: Gotta waste less time on clubs now 🥲
+
+**Link to work**: N/A
