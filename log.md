@@ -279,3 +279,11 @@
 **Thoughts**: Gotta waste less time on clubs now 🥲
 
 **Link to work**: N/A
+
+## DAY 35: October 15, 2021
+
+**Today's Progress**: Machine Learning Basics & Methods + Broke my brain trying to solve Computational Thinking Problems on the IITM + Algos
+
+**Thoughts**: IDK how tf they make hard problems out of easy topics every time 💀
+
+**Link to work**: N/A
