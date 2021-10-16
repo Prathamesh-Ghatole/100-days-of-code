@@ -287,3 +287,11 @@
 **Thoughts**: IDK how tf they make hard problems out of easy topics every time 💀
 
 **Link to work**: N/A
+
+## DAY 36: October 16, 2021
+
+**Today's Progress**: Learned more Advanced Algorithms on Fibonacci Numbers + LOT of Graphic Designing
+
+**Thoughts**: Big club plans coming up next week
+
+**Link to work**: N/A
