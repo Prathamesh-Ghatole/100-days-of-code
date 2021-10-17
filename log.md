@@ -295,3 +295,11 @@
 **Thoughts**: Big club plans coming up next week
 
 **Link to work**: N/A
+
+## DAY 37: October 17, 2021
+
+**Today's Progress**: Learned methods to calculate program runtime, More Studying over at IITM ODP
+
+**Thoughts**: Pretty chill weekend
+
+**Link to work**: N/A
