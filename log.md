@@ -303,3 +303,11 @@
 **Thoughts**: Pretty chill weekend
 
 **Link to work**: N/A
+
+## DAY 37: October 17, 2021
+
+**Today's Progress**: Learning Asymptotic Notation (Big-O Notation), Some Mathematics Practice, Writing Algos for GCD & Fibonacci Numbers
+
+**Thoughts**: This DSA Course is more advanced than expected!
+
+**Link to work**: https://www.coursera.org/specializations/data-structures-algorithms
