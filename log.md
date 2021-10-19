@@ -304,10 +304,18 @@
 
 **Link to work**: N/A
 
-## DAY 37: October 17, 2021
+## DAY 38: October 18, 2021
 
 **Today's Progress**: Learning Asymptotic Notation (Big-O Notation), Some Mathematics Practice, Writing Algos for GCD & Fibonacci Numbers
 
 **Thoughts**: This DSA Course is more advanced than expected!
 
 **Link to work**: https://www.coursera.org/specializations/data-structures-algorithms
+
+## DAY 39: October 19, 2021
+
+**Today's Progress**: Algorithm Optimization Problems, Problems on Big-O Notation & Growth Rate, P&C, Reading on Commercial ML
+
+**Thoughts**: Doing 2 Specialization Courses + 2 Degree Programs at once is surprisingly easy.
+
+**Link to work**: N/A
