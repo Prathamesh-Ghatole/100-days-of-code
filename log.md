@@ -319,3 +319,11 @@
 **Thoughts**: Doing 2 Specialization Courses + 2 Degree Programs at once is surprisingly easy.
 
 **Link to work**: N/A
+
+## DAY 40: October 20, 2021
+
+**Today's Progress**: Computational Thinking + Statistics Practice, Algorithm Enhancement Practice, C++ Practice
+
+**Thoughts**: Almost the same as yesterday
+
+**Link to work**: N/A
