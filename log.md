@@ -327,3 +327,13 @@
 **Thoughts**: Almost the same as yesterday
 
 **Link to work**: N/A
+
+## DAY 41: October 21, 2021
+
+**Today's Progress**: Grasping Basic Machine Learning Concepts from 2 sources:
+1. Applied Machine Learning (University of Michigan)
+2. Machine Learning (Stanford) 
+
+**Thoughts**: I'll try to provide my reviews at the end.
+
+**Link to work**: https://www.coursera.org/learn/python-machine-learning & https://www.coursera.org/learn/machine-learning
