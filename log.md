@@ -337,3 +337,11 @@
 **Thoughts**: I'll try to provide my reviews at the end.
 
 **Link to work**: https://www.coursera.org/learn/python-machine-learning & https://www.coursera.org/learn/machine-learning
+
+## DAY 42: October 22, 2021
+
+**Today's Progress**: Learned about K-Nearest Neighbour Classification, solved problems regarding the same.
+
+**Thoughts**: Learned a lot of practical stuff
+
+**Link to work**: N/A
