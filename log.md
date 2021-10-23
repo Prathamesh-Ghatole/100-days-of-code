@@ -345,3 +345,11 @@
 **Thoughts**: Learned a lot of practical stuff
 
 **Link to work**: N/A
+
+## DAY 43: October 23, 2021
+
+**Today's Progress**: More ML, Theory on OS, Software Engineering, DMGT.
+
+**Thoughts**: Preparing for exams
+
+**Link to work**: N/A
