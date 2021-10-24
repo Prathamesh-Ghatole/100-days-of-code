@@ -353,3 +353,11 @@
 **Thoughts**: Preparing for exams
 
 **Link to work**: N/A
+
+## DAY 44: October 24, 2021
+
+**Today's Progress**: Ran my first ML project with KNN :), Practiced DSA. 
+
+**Thoughts**: Satisfying.
+
+**Link to work**: N/A
