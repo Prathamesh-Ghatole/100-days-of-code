@@ -361,3 +361,11 @@
 **Thoughts**: Satisfying.
 
 **Link to work**: N/A
+
+## DAY 45: October 25, 2021
+
+**Today's Progress**: Learning AI Knowledge Representation. (w/ Deepak Khemani on NPTEL :))
+
+**Thoughts**: NPTEL is pretty damn amazing!
+
+**Link to work**: https://nptel.ac.in/courses/106/106/106106140/
