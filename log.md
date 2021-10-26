@@ -369,3 +369,11 @@
 **Thoughts**: NPTEL is pretty damn amazing!
 
 **Link to work**: https://nptel.ac.in/courses/106/106/106106140/
+
+## DAY 46: October 26, 2021
+
+**Today's Progress**: Learned more about BFS, Turing's test, AI Heuristics, etc
+
+**Thoughts**: Took all day in exam preparation
+
+**Link to work**: N/A
