@@ -378,10 +378,18 @@
 
 **Link to work**: N/A
 
-## DAY 46: October 26, 2021
+## DAY 47: October 26, 2021
 
 **Today's Progress**: Learned more about Software Engineering and Project Management. Learned more about Operating System theory, and a lot more.
 
 **Thoughts**: Moving to College soon :)
+
+**Link to work**: N/A
+
+## DAY 48: October 26, 2021
+
+**Today's Progress**: A detailed view of k-NN Classifier & Linear Regression in Scikitlearn, Overfitting, Supervised Learning, Probability, Greedy Algorithms, Grouping Algorithms
+
+**Thoughts**: Lots of stuff today👀
 
 **Link to work**: N/A
