@@ -396,7 +396,7 @@
 
 ### Changing Format
 ***
-🗓 DAY 49 of 100: October xx, 2021
+🗓 DAY 49 of 100: October 39, 2021
 
 ✔ Progress: Started my first major project!
 > A Python app to directly write a 100daysofcode post for twitter, GitHub, and Encode & copy it to clipboard!
