@@ -393,3 +393,16 @@
 **Thoughts**: Lots of stuff today👀
 
 **Link to work**: N/A
+
+### Changing Format
+***
+🗓 DAY 49 of 100: October xx, 2021
+
+✔ Progress: Started my first major project!
+> A Python app to directly write a 100daysofcode post for twitter, GitHub, and Encode & copy it to clipboard!
+> Implemented Stacks w/ Arrays/LinkedLists
+
+🧠 Thoughts: 👀
+
+🔗 Link: N/A 
+***
