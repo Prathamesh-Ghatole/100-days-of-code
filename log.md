@@ -406,3 +406,12 @@
 
 🔗 Link: N/A 
 ***
+#100DaysOfCode
+🗓 DAY 50 of 100: October 30, 2021
+
+✔ Progress: Revising Stats + DSA concepts for tomorrow's exams.
+
+🧠 Thoughts: The offline exams that IITM conducts for their online degree program students are just EXCELLENT. Passing itself is an experience🔥
+
+🔗 Link: N/A
+***
