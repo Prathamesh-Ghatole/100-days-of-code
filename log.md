@@ -415,3 +415,12 @@
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 51 of 100: October 31, 2021
+
+✔ Progress: Permutations and Combinations Practice, List Algorithms in Python, Worked on Communication Skills
+
+🧠 Thoughts: Woke up at 2:00AM when I realised I forgot to post today's update.😭
+
+🔗 Link: N/A
+***
