@@ -424,3 +424,12 @@
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 52 of 100: November 1, 2021
+
+✔ Progress: Learned about Ridge, Lasso, and Polynomial Regression, and importance of Normalization/Scaling 
+
+🧠 Thoughts: Loved the following session by Mr. @sudarshaniisc 🔥
+
+🔗 Link: https://www.youtube.com/watch?v=tp31bsrOlKI
+***
