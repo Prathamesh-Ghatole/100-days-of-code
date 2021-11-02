@@ -433,3 +433,12 @@
 
 🔗 Link: https://www.youtube.com/watch?v=tp31bsrOlKI
 ***
+#100DaysOfCode
+🗓 DAY 53 of 100: October 02, 2021
+
+✔ Progress: Learned about Lasso Regression, Polynomial Regression, Logistic Regression, & Support vector machines. Explored d3.js for Visualization w/ Python.
+
+🧠 Thoughts: Free resource 👀
+
+🔗 Link: https://paperswithcode.com/datasets
+***
