@@ -442,3 +442,12 @@
 
 🔗 Link: https://paperswithcode.com/datasets
 ***
+#100DaysOfCode
+🗓 DAY 54 of 100: October 03, 2021
+
+✔ Progress: Learned more about Support Vector Machines, lazypredict, Flutter/React, & Java.
+
+🧠 Thoughts: Happy Diwali!
+
+🔗 Link: N/A
+***
