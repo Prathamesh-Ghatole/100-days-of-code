@@ -434,7 +434,7 @@
 🔗 Link: https://www.youtube.com/watch?v=tp31bsrOlKI
 ***
 #100DaysOfCode
-🗓 DAY 53 of 100: October 02, 2021
+🗓 DAY 53 of 100: November 02, 2021
 
 ✔ Progress: Learned about Lasso Regression, Polynomial Regression, Logistic Regression, & Support vector machines. Explored d3.js for Visualization w/ Python.
 
@@ -443,7 +443,7 @@
 🔗 Link: https://paperswithcode.com/datasets
 ***
 #100DaysOfCode
-🗓 DAY 54 of 100: October 03, 2021
+🗓 DAY 54 of 100: November 03, 2021
 
 ✔ Progress: Learned more about Support Vector Machines, lazypredict, Flutter/React, & Java.
 
@@ -451,3 +451,11 @@
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 55 of 100: November 04, 2021
+
+✔ Progress: Virtual Environments in Python, URL Encoding, Learned about Libraries like Colorama, pyperclip, rich, etc.
+
+🧠 Thoughts: Built a Script for automating my daily tweets :)
+
+🔗 Link: Soon.
