@@ -459,3 +459,13 @@
 🧠 Thoughts: Built a Script for automating my daily tweets :)
 
 🔗 Link: Soon.
+***
+#100DaysOfCode
+🗓 DAY 56 of 100: November 05, 2021
+
+✔ Progress: Learned about Graphs, Docker, Kotlin, Electronjs, etc.
+
+🧠 Thoughts: Found Great intros on the following channel! (@fireship_dev )
+
+🔗 Link: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA 
+***
