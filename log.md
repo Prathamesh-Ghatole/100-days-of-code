@@ -481,7 +481,7 @@
 #100DaysOfCode
 🗓 DAY 58 of 100: November 07, 2021
 
-✔ Progress: Learned about Multi-Class Classification, Kernalized Support Vector Machines, etc.
+✔ Progress: Learned about Multi-Class Classification, Kernelized Support Vector Machines, etc.
 
 🧠 Thoughts: Also trying to pickup extra curriculars like communication skills. 🗣
 
