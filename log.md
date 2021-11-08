@@ -487,3 +487,12 @@
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 59 of 100: November 08, 2021
+
+✔ Progress: Tried out Beautiful Soup, Learned about RESTful APIs, more on EDA.
+
+🧠 Thoughts: Still facing issues w/ parsing JSON in Pandas 😑
+
+🔗 Link: N/A 
+***
