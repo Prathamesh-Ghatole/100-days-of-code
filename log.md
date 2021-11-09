@@ -496,3 +496,13 @@
 
 🔗 Link: N/A 
 ***
+#100DaysOfCode
+🗓 DAY 60 of 100: November 09, 2021
+
+✔ Progress: Went deep into the AI in music and Audio Rabbit Hole 🔥
+
+🧠 Thoughts: linking a really helpful resource below.
+c.c. @musikalkemist 
+
+🔗 Link: https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf 
+***
