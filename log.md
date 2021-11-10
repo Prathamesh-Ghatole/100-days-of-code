@@ -506,3 +506,12 @@ c.c. @musikalkemist
 
 🔗 Link: https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf 
 ***
+#100DaysOfCode
+🗓 DAY 61 of 100: November 10, 2021
+
+✔ Progress: Learned about different tech stacks for web dev.
+
+🧠 Thoughts: Found this legendary video
+
+🔗 Link: https://www.youtube.com/watch?v=wx_iuO-dI5w 
+***
