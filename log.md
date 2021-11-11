@@ -515,3 +515,12 @@ c.c. @musikalkemist
 
 🔗 Link: https://www.youtube.com/watch?v=wx_iuO-dI5w 
 ***
+#100DaysOfCode
+🗓 DAY 62 of 100: November 11, 2021
+
+✔ Progress: Learned about ML Decision Trees, Worked on 100DaysOfCode-Writer.
+
+🧠 Thoughts: Learned a ton about programming in python
+
+🔗 Link: N/A
+***
