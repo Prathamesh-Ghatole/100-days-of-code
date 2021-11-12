@@ -524,3 +524,12 @@ c.c. @musikalkemist
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 63 of 100: November 12, 2021
+
+✔ Progress: Learned VScode tricks for workflow, More on Probability Statistics, DFS Algorithms.
+
+🧠 Thoughts: I'll miss work (study) from home 💀
+
+🔗 Link: N/A
+***
