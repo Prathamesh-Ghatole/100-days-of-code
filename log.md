@@ -533,3 +533,13 @@ c.c. @musikalkemist
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 64-69 of 100: November 18, 2021
+Curfew Edition
+
+✔ Progress: Made my first end-to-end DS project! Cleaned a really messy JSON file with all my music streams, analyzed my data. AND did all that WITHOUT Google!
+
+🧠 Thoughts: 6 day Internet ban💀
+
+🔗 Link: N/A
+***
