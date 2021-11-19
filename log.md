@@ -543,3 +543,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 70 of 100: November 19, 2021
+
+✔ Progress: Learned and applied Linkedlists, Basic DSA stuff.
+
+🧠 Thoughts: Finally learning the ways of college and hostel :)
+
+🔗 Link: N/A
+***
