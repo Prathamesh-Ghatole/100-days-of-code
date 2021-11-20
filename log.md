@@ -552,3 +552,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 71 of 100: November 21, 2021
+
+✔ Progress: Participating in the upcoming IITKGP Data Science Hackathon!
+
+🧠 Thoughts: Hopefully I'll get somewhere this time lol.
+
+🔗 Link: https://dare2compete.com/hackathon/kharagpur-data-science-hackathon-indian-institute-of-technology-iit-kharagpur-232484
+***
