@@ -561,3 +561,12 @@ Curfew Edition
 
 🔗 Link: https://dare2compete.com/hackathon/kharagpur-data-science-hackathon-indian-institute-of-technology-iit-kharagpur-232484
 ***
+#100DaysOfCode
+🗓 DAY 72 of 100: November 21, 2021
+
+✔ Progress: Learned about Graphs, Matrices, and their algorithms.
+
+🧠 Thoughts: Thoroughly enjoyed the weekend as well :)
+
+🔗 Link: N/A
+***
