@@ -570,3 +570,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 73 of 100: November 22, 2021
+
+✔ Progress: Learned about Priority Queues, Practiced Data Cleaning for Hackathon, Python basics.
+
+🧠 Thoughts: Offline College has a lot of overhead time that gets wasted.
+
+🔗 Link: N/A
+***
