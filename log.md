@@ -579,3 +579,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 74 of 100: November 23, 2021
+
+✔ Progress: Checked out the MetaBrainz OSS Repos (MusicBrainz, ListenBrainz, AcousticBrainz, & Picard)
+
+🧠 Thoughts: @MetaBrainz has to be one of my favorite companies in the audio AI realm 🔥
+
+🔗 Link: https://github.com/metabrainz
+***
