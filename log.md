@@ -588,3 +588,12 @@ Curfew Edition
 
 🔗 Link: https://github.com/metabrainz
 ***
+#100DaysOfCode
+🗓 DAY 75 of 100: November 25, 2021
+
+✔ Progress: Found some dudes on omegle and talked about software development 🙌
+
+🧠 Thoughts: Took a different apporach to entertainment :))
+
+🔗 Link: N/A
+***
