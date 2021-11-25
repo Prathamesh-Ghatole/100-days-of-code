@@ -597,3 +597,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 76 of 100: November 26, 2021
+
+✔ Progress: Polished pandas skills, learned about IRC communication, learning about google BigQuery
+
+🧠 Thoughts: N/A
+
+🔗 Link: N/A
+***
