@@ -606,3 +606,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 77 of 100: November 27, 2021
+
+✔ Progress: Did some workshops on startups, rickrolled our hackathon jury with @biswasrahul16 
+
+🧠 Thoughts: I hope I don't get disqualified before I get the certificate 😂
+
+🔗 Link: N/A
+***
