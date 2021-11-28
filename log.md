@@ -615,3 +615,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 78 of 100: November 28, 2021
+
+✔ Progress: Completed a BigQuery Guided Project. Explored: GSoC, IRC communications for OpenSource, Docker.
+
+🧠 Thoughts: Pretty chill Sunday :)
+
+🔗 Link: coursera.org/verify/HXK4YXHGXJTT 
+***
