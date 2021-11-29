@@ -624,3 +624,12 @@ Curfew Edition
 
 🔗 Link: coursera.org/verify/HXK4YXHGXJTT 
 ***
+#100DaysOfCode
+🗓 DAY 79 of 100: November 29, 2021
+
+✔ Progress: Tried out OpenSUSE with WSL2, Testing Docker, more on Dequeues
+
+🧠 Thoughts: Exams coming up 🥶
+
+🔗 Link: N/A
+***
