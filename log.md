@@ -642,3 +642,12 @@ Curfew Edition
 
 🔗 Link: N/A 
 ***
+#100DaysOfCode
+🗓 DAY 81 of 100: December 01, 2021
+
+✔ Progress: Learned about continuous random variables, studying DSA in depth.
+
+🧠 Thoughts: I hope I don't fk up my first offline exam 💀
+
+🔗 Link: N/A
+***
