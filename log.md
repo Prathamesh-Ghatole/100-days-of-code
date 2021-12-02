@@ -651,3 +651,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 82 of 100: December 02, 2021
+
+✔ Progress: Revised Stacks & Queues, using the last.fm API for a major project.
+
+🧠 Thoughts: API rate limiting is frustrating 😑
+
+🔗 Link: N/A
+***
