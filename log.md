@@ -661,11 +661,20 @@ Curfew Edition
 🔗 Link: N/A
 ***
 #100DaysOfCode 
-🗓 DAY 83 of 100: December 04, 2021
+🗓 DAY 83 of 100: December 03, 2021
 
 ✔ Progress: Learned about Random Number Generation, ADTs, Attended the @IFSCA_Official Infinity Forum event.
 
 🧠 Thoughts: I love CS, but hate studying for exams 😑
 
 🔗 Link: https://twitter.com/IFSCA_Official
+***
+#100DaysOfCode
+🗓 DAY 84 of 100: December 04, 2021
+
+✔ Progress: Implemented DSA concepts in C++, learned about Graph Theory.
+
+🧠 Thoughts: exam's in 2 days 😑
+
+🔗 Link: N/A 
 ***
