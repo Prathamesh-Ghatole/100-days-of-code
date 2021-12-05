@@ -678,3 +678,12 @@ Curfew Edition
 
 🔗 Link: N/A 
 ***
+#100DaysOfCode
+🗓 DAY 85 of 100: December 05, 2021
+
+✔ Progress: Learned more about the youtube API.
+
+🧠 Thoughts: Been sick all day 😷
+
+🔗 Link: N/A
+***
