@@ -687,3 +687,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 86 of 100: December 06, 2021
+
+✔ Progress: Revisiting Applied Machine Learning Concepts.
+
+🧠 Thoughts: This ML course is low key tough :|
+
+🔗 Link: https://www.coursera.org/learn/python-machine-learning
+***
