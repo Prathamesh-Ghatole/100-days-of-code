@@ -696,3 +696,12 @@ Curfew Edition
 
 🔗 Link: https://www.coursera.org/learn/python-machine-learning
 ***
+#100DaysOfCode
+🗓 DAY 87 of 100: December 07, 2021
+
+✔ Progress: Revisiting Statistics Fundamentals, explored C#
+
+🧠 Thoughts: Reading "Practical Statistics for Data Scientists" (O'Reilly)
+
+🔗 Link: N/A
+***
