@@ -705,3 +705,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 88 of 100: December 08, 2021
+
+✔ Progress: Developing an open source program in python, Learning how to use Rich for Python.
+
+🧠 Thoughts: Rich is excellent for making CLI UIs in Python 🔥
+
+🔗 Link: N/A
+***
