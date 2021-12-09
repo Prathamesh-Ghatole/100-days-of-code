@@ -714,3 +714,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 89 of 100: December 09, 2021
+
+✔ Progress: Explored Web 3.0, More Statistics
+
+🧠 Thoughts: N/A
+
+🔗 Link: N/A
+***
