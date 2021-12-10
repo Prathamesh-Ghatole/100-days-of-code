@@ -723,3 +723,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 90 of 100: December 10, 2021
+
+✔ Progress: Attended a seminar on "Computer Vision, Past Present and Future", DSA
+
+🧠 Thoughts: ON DAY 90 ALREADY!!! 😱
+
+🔗 Link: N/A
+***
