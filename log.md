@@ -732,3 +732,11 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 91 of 100: December 11, 2021
+
+✔ Progress: Revising Probability for Data Science
+
+🧠 Thoughts: 4.5Hr Offline exam on Sunday 😭
+
+🔗 Link: N/A 
