@@ -750,3 +750,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 93 of 100: December 13, 2021
+
+✔ Progress: Hosted a Major event at @SAAI_GHRCEM , used the event data to practice DS using Pandas, Seaborn, and Matplotlib :)
+
+🧠 Thoughts: Today's event was FANTASTIC. will share updates and good news soon!
+
+🔗 Link: N/A 
+***
