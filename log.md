@@ -759,3 +759,11 @@ Curfew Edition
 
 🔗 Link: N/A 
 ***
+#100DaysOfCode
+🗓 DAY 94 of 100: December 14, 2021
+
+✔ Progress: Learning DMGT, Attended "StateOfTheArt()" by @abacusai with @ericschmidt
+
+🧠 Thoughts: "If I were in my 20s RN, I'd study Biology / Large Language Models / Web 3.0" - Eric Schmidt, exCEO GOOGLE
+
+🔗 Link: abacus.ai
