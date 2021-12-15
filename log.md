@@ -767,3 +767,13 @@ Curfew Edition
 🧠 Thoughts: "If I were in my 20s RN, I'd study Biology / Large Language Models / Web 3.0" - Eric Schmidt, exCEO GOOGLE
 
 🔗 Link: abacus.ai
+***
+#100DaysOfCode
+
+🗓 DAY 95 of 100: December 15, 2021
+
+✔ Progress: Studied Computer Architecture, Binary tree, DSA
+
+🧠 Thoughts: 5 days to go 😱😱
+
+🔗 Link: N/A
