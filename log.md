@@ -777,3 +777,13 @@ Curfew Edition
 🧠 Thoughts: 5 days to go 😱😱
 
 🔗 Link: N/A
+***
+#100DaysOfCode
+🗓 DAY 96 of 100: December 16, 2021
+
+✔ Progress: Learned about various Artificial Intelligence Search Algorithms like AO*, SSS*, IDA*, Hillclimbing algo.
+
+🧠 Thoughts: Day 96? ɘɔin
+
+🔗 Link: N/A
+***
