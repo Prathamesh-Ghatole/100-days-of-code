@@ -787,3 +787,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 97 of 100: December 17, 2021
+
+✔ Progress: Started with Amazon DeepRacer for Students, Going back to ML basics
+
+🧠 Thoughts: Hoping to get the NanoDegree Scholarship @udacity :)
+
+🔗 Link: N/A
+***
