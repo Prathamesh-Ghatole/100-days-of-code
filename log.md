@@ -796,3 +796,12 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 98 of 100: December 18, 2021
+
+✔ Progress: Watching more stuff on AWS DeepRacer, More on Binary Trees.
+
+🧠 Thoughts: It's weekend, and I am playing catchup with life.
+
+🔗 Link: N/A
+***
