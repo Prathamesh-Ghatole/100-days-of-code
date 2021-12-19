@@ -805,3 +805,14 @@ Curfew Edition
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 99 of 100: December 19, 2021
+
+Note: What content would you like to see on Day 100? 🔥
+
+✔ Progress: Attended a GitHub demo event (and won a prize!), Explored Binary Tree Algorithms, Trying out @JuliaLanguage 
+
+🧠 Thoughts: Day 99!! Lets gooo🤯
+
+🔗 Link: N/A
+***
