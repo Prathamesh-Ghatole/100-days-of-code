@@ -816,3 +816,13 @@ Note: What content would you like to see on Day 100? 🔥
 
 🔗 Link: N/A
 ***
+#100DaysOfCode
+🗓 DAY 100 of 100: December 20, 2021
+
+✔ Progress: explored Markdown, git in depth. Complete a Regex Guided Project on Coursera.
+
+🧠 Thoughts: Look mom I did it! 😭 
+(Will make a blog post sharing my experience!)
+
+🔗 Link: N/A
+***
